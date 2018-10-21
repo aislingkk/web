@@ -62,7 +62,7 @@ var nytBaseSettings = {
   promo_image_width: {defaultValue: 1024, includeInSettingsBlock: false, includeInConfigFile: false},
   image_format: {defaultValue: ["auto"], includeInSettingsBlock: true, includeInConfigFile: false},
   write_image_files: {defaultValue: "yes", includeInSettingsBlock: true, includeInConfigFile: false},
-  responsiveness: {defaultValue: "fixed", includeInSettingsBlock: true, includeInConfigFile: false},
+  responsiveness: {defaultValue: "dynamic", includeInSettingsBlock: true, includeInConfigFile: false},
   max_width: {defaultValue: "", includeInSettingsBlock: true, includeInConfigFile: false},
   output: {defaultValue: "one-file", includeInSettingsBlock: true, includeInConfigFile: false},
   project_name: {defaultValue: "", includeInSettingsBlock: false, includeInConfigFile: false},
