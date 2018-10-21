@@ -8,7 +8,6 @@ body {
   font-family: 'Niramit', sans-serif;
   text-align: center;
   font-size: 100%;
-  opacity: ;
 }
 
 .introduction {
@@ -17,7 +16,6 @@ body {
   font-family: 'Niramit', sans-serif;
   text-align: left;
   font-size: 90%;
-  opacity: ;
 }
 
 .tabletext1 {
@@ -52,8 +50,8 @@ body {
 
 #img-ai0-9 {
   top: 20.0537%;
-  width="60%";
-  height="30px"
+  width: 60%;
+  height: 30px;
 }
 
 #main-box .g-artboard {
@@ -266,7 +264,7 @@ body {
   margin-top: 200px;
 }
 
-<style type='text/css' media='screen,print'>#g-000001-box .g-artboard {
+#g-000001-box .g-artboard {
   margin: 0 auto;
 }
 
@@ -277,7 +275,6 @@ body {
 .g-aiAbs {
   position: absolute;
 }
-
 
 .g-aiSymbol {
   position: absolute;
@@ -346,4 +343,12 @@ body {
   color: rgb(255, 255, 255);
 }
 
-</style>
+.rectbox-36 {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.rectbox-36-show {
+  opacity: 1;
+  pointer-events: none;
+}
