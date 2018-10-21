@@ -1,0 +1,264 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 590">
+    <defs>
+        <style>
+            .cls-1 {
+                opacity: 0.7;
+            }
+
+            .cls-2 {
+                fill: #696f78;
+            }
+
+            .cls-3 {
+                fill: #eff3f7;
+            }
+
+            .cls-4 {
+                fill: #626871;
+            }
+
+            .cls-5 {
+                fill: #8c9198;
+            }
+
+            .cls-6 {
+                fill: #777b84;
+            }
+
+            .cls-7 {
+                fill: #c0c4ca;
+            }
+
+            .cls-8 {
+                fill: #dfe3e7;
+            }
+
+            .cls-9 {
+                fill: #9a9fa6;
+            }
+
+            .cls-10 {
+                fill: #e7eaef;
+            }
+
+            .cls-11 {
+                fill: #5c6069;
+            }
+
+            .cls-12 {
+                fill: #93989f;
+            }
+
+            .cls-13 {
+                fill: #b9bcc3;
+            }
+
+            .cls-14 {
+                fill: #555b63;
+            }
+
+            .cls-15 {
+                fill: #cfd4da;
+            }
+
+            .cls-16 {
+                fill: #d7dbe0;
+            }
+
+            .cls-17 {
+                fill: #474e57;
+            }
+
+            .cls-18 {
+                fill: #858a91;
+            }
+
+            .cls-19 {
+                fill: #7e828b;
+            }
+
+            .cls-20 {
+                fill: #4f545d;
+            }
+
+            .cls-21 {
+                fill: #424751;
+            }
+
+            .cls-22 {
+                fill: #70757d;
+            }
+
+            .cls-23 {
+                fill: #f8fbfe;
+            }
+
+            .cls-24 {
+                fill: #aaaeb4;
+            }
+
+            .cls-25,
+            .cls-31 {
+                fill: #3b414b;
+            }
+
+            .cls-26 {
+                fill: #c7ccd1;
+            }
+
+            .cls-27,
+            .cls-32 {
+                fill: #363b45;
+            }
+
+            .cls-28 {
+                fill: #a1a7ad;
+            }
+
+            .cls-29,
+            .cls-33 {
+                fill: #2f353f;
+            }
+
+            .cls-30 {
+                fill: #b1b5bb;
+            }
+
+            .cls-31,
+            .cls-32,
+            .cls-33 {
+                stroke: #c8c8c9;
+            }
+
+            .cls-31,
+            .cls-32 {
+                stroke-width: 0.5px;
+            }
+
+            .cls-34,
+            .cls-35 {
+                isolation: isolate;
+            }
+
+            .cls-35 {
+                font-size: 11px;
+                fill: #040000;
+                font-family: ArialMT, Arial;
+            }
+
+            .cls-36 {
+                letter-spacing: -0.04em;
+            }
+
+            .cls-37 {
+                letter-spacing: -0.07em;
+            }
+
+            .cls-38 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-39 {
+                letter-spacing: -0.02em;
+            }
+
+        </style>
+    </defs>
+    <title>未标题-1</title>
+    <g id="raw" class="cls-1">
+        <rect class="cls-2" width="157.93" height="50.4" />
+        <rect class="cls-3" y="55.4" width="157.93" height="335.59" />
+        <rect class="cls-4" y="395.98" width="157.93" height="44.24" />
+        <rect class="cls-5" y="445.22" width="157.93" height="79.12" />
+        <rect class="cls-6" y="529.34" width="157.93" height="60.66" />
+        <rect class="cls-7" x="162.93" width="232.09" height="114.85" />
+        <rect class="cls-8" x="162.93" y="119.85" width="232.09" height="189.57" />
+        <rect class="cls-9" x="162.93" y="314.42" width="232.09" height="68.32" />
+        <rect class="cls-10" x="162.93" y="387.74" width="232.09" height="202.26" />
+        <rect class="cls-11" x="400.02" width="44.05" height="151.76" />
+        <rect class="cls-12" x="449.07" width="90.96" height="151.76" />
+        <rect class="cls-13" x="545.03" width="174.13" height="151.76" />
+        <rect class="cls-14" x="724.17" width="39.78" height="151.76" />
+        <rect class="cls-15" x="768.95" width="221.05" height="151.76" />
+        <rect class="cls-16" x="400.02" y="156.76" width="149.85" height="245.43" />
+        <rect class="cls-17" x="400.02" y="407.18" width="149.85" height="25.22" />
+        <rect class="cls-18" x="400.02" y="437.41" width="149.85" height="77.04" />
+        <rect class="cls-19" x="400.02" y="519.44" width="149.85" height="70.56" />
+        <rect class="cls-20" x="554.87" y="156.76" width="33.9" height="115.3" />
+        <rect class="cls-21" x="554.87" y="277.06" width="33.9" height="46.56" />
+        <rect class="cls-22" x="554.87" y="328.62" width="33.9" height="261.38" />
+        <rect class="cls-23" x="593.77" y="156.76" width="310.44" height="248.28" />
+        <rect class="cls-24" x="909.21" y="156.76" width="80.79" height="248.28" />
+        <rect class="cls-25" x="593.77" y="410.04" width="170.31" height="4.53" />
+        <rect class="cls-26" x="593.77" y="419.57" width="170.31" height="170.43" />
+        <rect class="cls-27" x="769.08" y="410.04" width="99.82" height="7.76" />
+        <rect class="cls-28" x="769.08" y="422.79" width="99.82" height="167.21" />
+        <rect class="cls-29" x="873.22" y="410.04" height="179.96" />
+        <rect class="cls-30" x="877.52" y="410.04" width="112.48" height="179.96" />
+        <rect class="cls-2" width="157.93" height="50.4" />
+        <rect class="cls-3" y="55.4" width="157.93" height="335.59" />
+        <rect class="cls-4" y="395.98" width="157.93" height="44.24" />
+        <rect class="cls-5" y="445.22" width="157.93" height="79.12" />
+        <rect class="cls-6" y="529.34" width="157.93" height="60.66" />
+        <rect class="cls-7" x="162.93" width="232.09" height="114.85" />
+        <rect class="cls-8" x="162.93" y="119.85" width="232.09" height="189.57" />
+        <rect class="cls-9" x="162.93" y="314.42" width="232.09" height="68.32" />
+        <rect class="cls-10" x="162.93" y="387.74" width="232.09" height="202.26" />
+        <rect class="cls-11" x="400.02" width="44.05" height="151.76" />
+        <rect class="cls-12" x="449.07" width="90.96" height="151.76" />
+        <rect class="cls-14" x="724.17" width="39.78" height="151.76" />
+        <rect class="cls-15" x="768.95" width="221.05" height="151.76" />
+        <rect class="cls-16" x="400.02" y="156.76" width="149.85" height="245.43" />
+        <rect class="cls-17" x="400.02" y="407.18" width="149.85" height="25.22" />
+        <rect class="cls-18" x="400.02" y="437.41" width="149.85" height="77.04" />
+        <rect class="cls-19" x="400.02" y="519.44" width="149.85" height="70.56" />
+        <rect class="cls-20" x="554.87" y="156.76" width="33.9" height="115.3" />
+        <rect class="cls-21" x="554.87" y="277.06" width="33.9" height="46.56" />
+        <rect class="cls-22" x="554.87" y="328.62" width="33.9" height="261.38" />
+        <rect class="cls-23" x="593.77" y="156.76" width="310.44" height="248.28" />
+        <rect class="cls-24" x="909.21" y="156.76" width="80.79" height="248.28" />
+        <rect class="cls-31" x="593.77" y="410.04" width="170.31" height="4.53" />
+        <rect class="cls-26" x="593.77" y="419.57" width="170.31" height="170.43" />
+        <rect class="cls-32" x="769.08" y="410.04" width="99.82" height="7.76" />
+        <rect class="cls-28" x="769.08" y="422.79" width="99.82" height="167.21" />
+        <rect class="cls-33" x="873.22" y="410.04" height="179.96" />
+        <rect class="cls-30" x="877.52" y="410.04" width="112.48" height="179.96" />
+    </g>
+    <g id="raw_文字" data-name="raw 文字">
+        <g class="cls-34"><text class="cls-35" transform="translate(52.98 27.05)">27</text><text class="cls-35" transform="translate(52.98 40.25)">ANHUI</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(45.34 225.04)">166</text><text class="cls-35" transform="translate(45.34 238.24)">BEIJING</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(45.26 415.95)">24</text><text class="cls-35" transform="translate(45.26 429.15)">CHONGQING</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(45.54 486.63)">41</text><text class="cls-35" transform="translate(45.54 499.83)">FUJIAN</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(45.23 558.52)">32</text><text class="cls-35" transform="translate(45.23 571.72)">GANSU</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(233.13 59.27)">85</text><text class="cls-35" transform="translate(233.13 72.47)">GUANGDONG</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(233.99 216.48)">138</text><text class="cls-35" transform="translate(233.99 229.68)">GUANGZHOU</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(234.44 350.43)">52</text><text class="cls-35" transform="translate(234.44 363.63)">GUIZHOU</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(234.24 490.72)">147</text><text class="cls-35" transform="translate(234.24 503.92)">HEBEI</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(399.92 56.73)">23</text><text class="cls-35" transform="translate(399.92 69.93)">HEILONG</text><text class="cls-35" transform="translate(399.92 83.13)">JIANG</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(473.13 76.53)">45</text><text class="cls-35" transform="translate(473.13 89.73)">HENAN</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(606.12 76.53)">84</text><text class="cls-35" transform="translate(606.12 89.73)">HUBEI</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(726.33 77.73)">21</text><text class="cls-35" transform="translate(726.33 90.93)">HUNAN</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(838.16 77.73)">106</text><text class="cls-35" transform="translate(838.16 90.93)">INNER MONGO<tspan class="cls-36" x="80.06" y="0">L</tspan></text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(439.28 281.32)">
+                <tspan class="cls-37">1</tspan>
+                <tspan x="5.3" y="0">16</tspan>
+            </text><text class="cls-35" transform="translate(439.28 294.52)">JIANGSU</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(444.38 416.64)">14</text><text class="cls-35" transform="translate(444.38 429.84)">JIANGXI</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(444.94 477.77)">38</text><text class="cls-35" transform="translate(444.94 490.97)">JILIN</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(444.49 556.57)">35</text><text class="cls-35" transform="translate(444.49 569.77)">LIAONING</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(555.03 216.26)">14</text><text class="cls-35" transform="translate(555.03 229.46)">NINGXI<tspan class="cls-38" x="37.89" y="0">A</tspan></text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(556.48 298.19)">6</text><text class="cls-35" transform="translate(556.48 311.39)">QINGHAI</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(556.5 477.16)">31</text><text class="cls-35" transform="translate(556.5 490.36)">SHAAN</text><text class="cls-35" transform="translate(556.5 503.56)">XI</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(722.03 282.75)">239</text><text class="cls-35" transform="translate(722.03 295.95)">SHANGHAI</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(929.95 282.75)">65</text><text class="cls-35" transform="translate(929.95 295.95)">SHAXI</text></g><text class="cls-35" transform="translate(648.06 401.38)">
+            <tspan xml:space="preserve">5 SICHUAN</tspan>
+        </text>
+        <g class="cls-34"><text class="cls-35" transform="translate(644.8 506.64)">92</text><text class="cls-35" transform="translate(644.8 519.84)">TIANJING</text></g><text class="cls-35" transform="translate(797.4 402.99)">4 <tspan class="cls-39" x="9.17" y="0"> </tspan>
+            <tspan x="12.03" y="0">TIBE</tspan>
+            <tspan class="cls-39" x="36.48" y="0">T</tspan>
+        </text>
+        <g class="cls-34"><text class="cls-35" transform="translate(788.46 506.25)">54</text><text class="cls-35" transform="translate(788.46 519.45)">XINJIANG</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(857.98 506.87)">2</text><text class="cls-35" transform="translate(857.98 520.07)">YUNNAN</text></g>
+        <g class="cls-34"><text class="cls-35" transform="translate(917.39 505.87)">65</text><text class="cls-35" transform="translate(917.39 519.07)">ZHEJIANG</text></g>
+    </g>
+</svg>
