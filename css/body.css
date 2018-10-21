@@ -352,3 +352,11 @@ body {
   opacity: 1;
   pointer-events: none;
 }
+
+#raw rect {
+  fill-opacity: 0.1;
+}
+
+#raw :hover {
+  fill-opacity: 0.9;
+}
