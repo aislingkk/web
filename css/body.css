@@ -1,0 +1,40 @@
+body {
+    background-color: #000000;
+}
+
+.navigation {
+    background-color: #000000;
+    color: #c8c8c8;
+    font-family: 'Niramit', sans-serif;
+    text-align: center;
+    font-size: 100%;
+    opacity: ;
+}
+
+.introduction {
+    background-color: #000000;
+    color: #c8c8c8;
+    font-family: 'Niramit', sans-serif;
+    text-align: left;
+    font-size: 90%;
+    opacity: ;
+}
+
+.tabletext1{
+    font-weight: 500;
+    font-size: 138px;
+    line-height: 166px;
+    height: 166px;
+    text-align: right;
+    color:#1e1e1e;
+    opacity: 0.9;
+}
+.tabletext2{
+    font-weight: 500;
+    font-size: 138px;
+    line-height: 166px;
+    height: 166px;
+    text-align: left;
+    color:#1e1e1e;
+    opacity: 0.9;
+}
