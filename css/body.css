@@ -420,13 +420,13 @@ body {
   pointer-events: none;
 }
 
-g text {
+#label g text {
   opacity: 0;
   pointer-events: none;
 }
 
 .lable-show {
-  opacity: 1;
+  opacity: 1 !important;
   pointer-events: none;
 }
 
@@ -436,4 +436,37 @@ g text {
 
 #rectImg :hover {
   fill-opacity: 0.9;
+}
+
+.g-hide {
+  display: none !important;
+}
+
+.g-show {
+  display: inline !important;
+}
+
+.myButton {
+  background-color: #ffffff;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid #dcdcdc;
+  display: inline-block;
+  cursor: pointer;
+  color: #666666;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 4px 48px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  background-color: #f6f6f6;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
 }
