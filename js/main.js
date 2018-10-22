@@ -13,7 +13,6 @@ $(document).ready(function() {
   });
 
   let labels = [
-    "distribution",
     "distribution-num",
     "power-plant",
     "demand",
@@ -24,9 +23,7 @@ $(document).ready(function() {
       $("#" + labels[j] + "-data-map").removeClass("g-show");
       $("#" + labels[j] + "-data-map").addClass("g-hide");
     }
-    $("#distribution-data-map").removeClass("g-hide");
     $("#distribution-num-data-map").removeClass("g-hide");
-    $("#distribution-data-map").addClass("g-show");
     $("#distribution-num-data-map").addClass("g-show");
   });
   $("#power-plant").on("click", function(event) {
