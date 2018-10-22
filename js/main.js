@@ -1,15 +1,17 @@
 $(document).ready(function() {
     $("rect").hover( function(event) {
     let index = $(event.currentTarget).index() + 1;
-    $("#rectboxlabel").find("text").removeClass("rectbox-36-show");
+      $("#label")
+        .find("text")
+        .removeClass("lable-show");
 
     // change this part tot find the text related to the rectbox
-    $("#rectboxlabel")
-      .children(":nth-child(" + index + ")")
-      .addClass("rectbox-36-show");
-    $("#rectboxlabel")
-      .children(":nth-child(" + index + 1 + ")")
-      .addClass("rectbox-36-show");
+      $("#label")
+      .children(":nth-child(" + index + ")").find('text')
+        .addClass("lable-show");
+      // $("#label")
+      // .children(":nth-child(" + index + 1 + ")")
+      //   .addClass("lable-show");
   });
 });
 
