@@ -9,9 +9,6 @@ $(document).ready(function() {
       $("#label")
       .children(":nth-child(" + index + ")").find('text')
         .addClass("lable-show");
-      // $("#label")
-      // .children(":nth-child(" + index + 1 + ")")
-      //   .addClass("lable-show");
   });
 });
 
