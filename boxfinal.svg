@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 991 591">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #363b45;
+            }
+
+            .cls-2 {
+                fill: #b1b5bb;
+            }
+
+            .cls-3 {
+                fill: #aaaeb4;
+            }
+
+            .cls-4 {
+                fill: #cfd4da;
+            }
+
+            .cls-5 {
+                fill: #a1a7ad;
+            }
+
+            .cls-6 {
+                fill: #c7ccd1;
+            }
+
+            .cls-7 {
+                fill: #3b414b;
+            }
+
+            .cls-8 {
+                fill: #f8fbfe;
+            }
+
+            .cls-9 {
+                fill: #555b63;
+            }
+
+            .cls-10 {
+                fill: #70757d;
+            }
+
+            .cls-11 {
+                fill: #424751;
+            }
+
+            .cls-12 {
+                fill: #4f545d;
+            }
+
+            .cls-13 {
+                fill: #b9bcc3;
+            }
+
+            .cls-14 {
+                fill: #7e828b;
+            }
+
+            .cls-15 {
+                fill: #858a91;
+            }
+
+            .cls-16 {
+                fill: #474e57;
+            }
+
+            .cls-17 {
+                fill: #d7dbe0;
+            }
+
+            .cls-18 {
+                fill: #93989f;
+            }
+
+            .cls-19 {
+                fill: #5c6069;
+            }
+
+            .cls-20 {
+                fill: #e7eaef;
+            }
+
+            .cls-21 {
+                fill: #9a9fa6;
+            }
+
+            .cls-22 {
+                fill: #dfe3e7;
+            }
+
+            .cls-23 {
+                fill: #c0c4ca;
+            }
+
+            .cls-24 {
+                fill: #777b84;
+            }
+
+            .cls-25 {
+                fill: #8c9198;
+            }
+
+            .cls-26 {
+                fill: #626871;
+            }
+
+            .cls-27 {
+                fill: #eff3f7;
+            }
+
+            .cls-28 {
+                fill: #696f78;
+            }
+
+            .cls-29 {
+                fill: none;
+                stroke: #fff;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-30 {
+                isolation: isolate;
+                font-size: 11px;
+                fill: #fdfbfb;
+                font-family: ArialMT, Arial;
+            }
+
+            .cls-31 {
+                letter-spacing: -0.04em;
+            }
+
+            .cls-32 {
+                letter-spacing: -0.02em;
+            }
+
+            .cls-33 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-34 {
+                letter-spacing: -0.07em;
+            }
+
+        </style>
+    </defs>
+    <title>rectbox</title>
+    <g id="rectbox">
+        <rect id="rect29" class="cls-1" x="871.81" y="410.54" width="4.02" height="179.96" />
+        <rect id="rect28" class="cls-2" x="878.02" y="410.54" width="112.48" height="179.96" />
+        <rect id="rect27" class="cls-3" x="909.71" y="157.26" width="80.79" height="248.28" />
+        <rect id="rect26" class="cls-4" x="769.45" y="0.5" width="221.05" height="151.76" />
+        <rect id="rect25" class="cls-5" x="769.58" y="423.29" width="99.82" height="167.21" />
+        <rect id="rect24" class="cls-6" x="594.27" y="420.07" width="170.31" height="170.43" />
+        <rect id="rect23" class="cls-1" x="769.58" y="410.54" width="99.82" height="7.76" />
+        <rect id="rect22" class="cls-7" x="594.27" y="410.54" width="170.31" height="4.53" />
+        <rect id="rect21" class="cls-8" x="594.27" y="157.26" width="310.44" height="248.28" />
+        <rect id="rect20" class="cls-9" x="724.67" y="0.5" width="39.78" height="151.76" />
+        <rect id="rect19" class="cls-10" x="555.37" y="329.12" width="33.9" height="261.38" />
+        <rect id="rect18" class="cls-11" x="555.37" y="277.56" width="33.9" height="46.56" />
+        <rect id="rect17" class="cls-12" x="555.37" y="157.26" width="33.9" height="115.3" />
+        <rect id="rect16" class="cls-13" x="545.53" y="0.5" width="174.13" height="151.76" />
+        <rect id="rect15" class="cls-14" x="400.52" y="519.94" width="149.85" height="70.56" />
+        <rect id="rect14" class="cls-15" x="400.52" y="437.91" width="149.85" height="77.04" />
+        <rect id="rect13" class="cls-16" x="400.52" y="407.68" width="149.85" height="25.22" />
+        <rect id="rect12" class="cls-17" x="400.52" y="157.26" width="149.85" height="245.43" />
+        <rect id="rect11" class="cls-18" x="449.57" y="0.5" width="90.96" height="151.76" />
+        <rect id="rect10" class="cls-19" x="400.52" y="0.5" width="44.05" height="151.76" />
+        <rect id="rect09" class="cls-20" x="163.43" y="388.24" width="232.09" height="202.26" />
+        <rect id="rect08" class="cls-21" x="163.43" y="314.92" width="232.09" height="68.32" />
+        <rect id="rect07" class="cls-22" x="163.43" y="120.35" width="232.09" height="189.57" />
+        <rect id="rect06" class="cls-23" x="163.43" y="0.5" width="232.09" height="114.85" />
+        <rect id="rect05" class="cls-24" x="0.5" y="529.84" width="157.93" height="60.66" />
+        <rect id="rect04" class="cls-25" x="0.5" y="445.72" width="157.93" height="79.12" />
+        <rect id="rect03" class="cls-26" x="0.5" y="396.48" width="157.93" height="44.24" />
+        <rect id="rect02" class="cls-27" x="0.5" y="55.9" width="157.93" height="335.59" />
+        <rect id="rect01" class="cls-28" x="0.5" y="0.5" width="157.93" height="50.4" />
+    </g>
+    <g id="rectImgBorder">
+        <rect id="rect29-2" data-name="rect29" class="cls-29" x="871.81" y="410.54" width="4.02" height="179.96" />
+        <rect id="rect28-2" data-name="rect28" class="cls-29" x="878.02" y="410.54" width="112.48" height="179.96" />
+        <rect id="rect27-2" data-name="rect27" class="cls-29" x="909.71" y="157.26" width="80.79" height="248.28" />
+        <rect id="rect26-2" data-name="rect26" class="cls-29" x="769.45" y="0.5" width="221.05" height="151.76" />
+        <rect id="rect25-2" data-name="rect25" class="cls-29" x="769.58" y="423.29" width="99.82" height="167.21" />
+        <rect id="rect24-2" data-name="rect24" class="cls-29" x="594.27" y="420.07" width="170.31" height="170.43" />
+        <rect id="rect23-2" data-name="rect23" class="cls-29" x="769.58" y="410.54" width="99.82" height="7.76" />
+        <rect id="rect22-2" data-name="rect22" class="cls-29" x="594.27" y="410.54" width="170.31" height="4.53" />
+        <rect id="rect21-2" data-name="rect21" class="cls-29" x="594.27" y="157.26" width="310.44" height="248.28" />
+        <rect id="rect20-2" data-name="rect20" class="cls-29" x="724.67" y="0.5" width="39.78" height="151.76" />
+        <rect id="rect19-2" data-name="rect19" class="cls-29" x="555.37" y="329.12" width="33.9" height="261.38" />
+        <rect id="rect17-2" data-name="rect17" class="cls-29" x="555.37" y="157.26" width="33.9" height="115.3" />
+        <rect id="rect18-2" data-name="rect18" class="cls-29" x="555.37" y="277.56" width="33.9" height="46.56" />
+        <rect id="rect16-2" data-name="rect16" class="cls-29" x="545.53" y="0.5" width="174.13" height="151.76" />
+        <rect id="rect15-2" data-name="rect15" class="cls-29" x="400.52" y="519.94" width="149.85" height="70.56" />
+        <rect id="rect14-2" data-name="rect14" class="cls-29" x="400.52" y="437.91" width="149.85" height="77.04" />
+        <rect id="rect13-2" data-name="rect13" class="cls-29" x="400.52" y="407.68" width="149.85" height="25.22" />
+        <rect id="rect12-2" data-name="rect12" class="cls-29" x="400.52" y="157.26" width="149.85" height="245.43" />
+        <rect id="rect11-2" data-name="rect11" class="cls-29" x="449.57" y="0.5" width="90.96" height="151.76" />
+        <rect id="rect10-2" data-name="rect10" class="cls-29" x="400.52" y="0.5" width="44.05" height="151.76" />
+        <rect id="rect09-2" data-name="rect09" class="cls-29" x="163.43" y="388.24" width="232.09" height="202.26" />
+        <rect id="rect08-2" data-name="rect08" class="cls-29" x="163.43" y="314.92" width="232.09" height="68.32" />
+        <rect id="rect07-2" data-name="rect07" class="cls-29" x="163.43" y="120.35" width="232.09" height="189.57" />
+        <rect id="rect06-2" data-name="rect06" class="cls-29" x="163.43" y="0.5" width="232.09" height="114.85" />
+        <rect id="rect05-2" data-name="rect05" class="cls-29" x="0.5" y="529.84" width="157.93" height="60.66" />
+        <rect id="rect04-2" data-name="rect04" class="cls-29" x="0.5" y="445.72" width="157.93" height="79.12" />
+        <rect id="rect03-2" data-name="rect03" class="cls-29" x="0.5" y="396.48" width="157.93" height="44.24" />
+        <rect id="rect02-2" data-name="rect02" class="cls-29" x="0.5" y="55.9" width="157.93" height="335.59" />
+        <rect id="rect01-2" data-name="rect01" class="cls-29" x="0.5" y="0.5" width="157.93" height="50.4" />
+    </g>
+    <g id="rectlabel">
+        <g id="text29"><text class="cls-30" transform="translate(854.01 470.57)">2</text><text class="cls-30" transform="translate(854.01 483.77)">YUNNAN</text></g>
+        <g id="text28"><text class="cls-30" transform="translate(898.69 530.2)">65</text><text class="cls-30" transform="translate(898.69 543.4)">ZHEJIANG</text></g>
+        <g id="text27"><text class="cls-30" transform="translate(931.37 283.61)">65</text><text class="cls-30" transform="translate(931.37 296.81)">SHAXI</text></g>
+        <g id="text26"><text class="cls-30" transform="translate(849.58 78.59)">106</text><text class="cls-30" transform="translate(849.58 91.79)">INNER MONGO<tspan class="cls-31" x="80.06" y="0">L</tspan></text></g>
+        <g id="text25"><text class="cls-30" transform="translate(789.88 513.11)">54</text><text class="cls-30" transform="translate(789.88 526.31)">XINJIANG</text></g>
+        <g id="text24"><text class="cls-30" transform="translate(658.78 513.5)">92</text><text class="cls-30" transform="translate(658.78 526.7)">TIANJING</text></g>
+        <g id="text23"><text class="cls-30" transform="translate(804.83 418.07)">4</text><text class="cls-30" transform="translate(815.51 418.07)">TIBE<tspan class="cls-32" x="24.45" y="0">T</tspan></text></g>
+        <g id="text22"><text class="cls-30" transform="translate(662.9 417.57)">5</text><text class="cls-30" transform="translate(673.58 417.57)">SICHUAN</text></g>
+        <g id="text20"><text class="cls-30" transform="translate(728.15 78.59)">21</text><text class="cls-30" transform="translate(728.15 91.79)">HUNAN</text></g>
+        <g id="text19"><text class="cls-30" transform="translate(561.03 463.97)">31</text><text class="cls-30" transform="translate(561.03 477.17)">SHAAN</text><text class="cls-30" transform="translate(561.03 489.73)">XI</text></g>
+        <g id="text18"><text class="cls-30" transform="translate(562.48 292.45)">6</text><text class="cls-30" transform="translate(562.48 305.65)">QING<tspan x="0" y="13.2">HAI</tspan></text></g>
+        <g id="text17"><text class="cls-30" transform="translate(561.03 213.12)">14</text><text class="cls-30" transform="translate(561.03 226.32)">NING<tspan x="0" y="13.2">XI</tspan>
+                <tspan class="cls-33" x="10.39" y="13.2">A</tspan>
+            </text></g>
+        <g id="text16"><text class="cls-30" transform="translate(607.54 77.39)">84</text><text class="cls-30" transform="translate(607.54 90.59)">HUBEI</text></g>
+        <g id="text15"><text class="cls-30" transform="translate(445.91 557.43)">35</text><text class="cls-30" transform="translate(445.91 570.63)">LIAONING</text></g>
+        <g id="text14"><text class="cls-30" transform="translate(446.36 478.63)">38</text><text class="cls-30" transform="translate(446.36 491.83)">JILIN</text></g>
+        <g id="text13"><text class="cls-30" transform="translate(445.8 417.05)">14</text><text class="cls-30" transform="translate(445.8 430.25)">JIANGXI</text></g>
+        <g id="text12"><text class="cls-30" transform="translate(440.71 282.18)">
+                <tspan class="cls-34">1</tspan>
+                <tspan x="5.3" y="0">16</tspan>
+            </text><text class="cls-30" transform="translate(440.71 295.38)">JIANGSU</text></g>
+        <g id="text11"><text class="cls-30" transform="translate(464.63 38.06)">23</text><text class="cls-30" transform="translate(464.63 51.26)">HEILONG</text><text class="cls-30" transform="translate(464.63 64.46)">JIANG</text></g>
+        <g id="text10"><text class="cls-30" transform="translate(404.44 95.94)">45</text><text class="cls-30" transform="translate(404.44 109.14)">HENAN</text></g>
+        <g id="text09"><text class="cls-30" transform="translate(235.66 491.58)">147</text><text class="cls-30" transform="translate(235.66 504.78)">HEBEI</text></g>
+        <g id="text08"><text class="cls-30" transform="translate(235.86 351.29)">52</text><text class="cls-30" transform="translate(235.86 364.49)">GUIZHOU</text></g>
+        <g id="text07"><text class="cls-30" transform="translate(235.41 217.34)">138</text><text class="cls-30" transform="translate(235.41 230.54)">GUANGZHOU</text></g>
+        <g id="text06"><text class="cls-30" transform="translate(234.55 60.13)">85</text><text class="cls-30" transform="translate(234.55 73.33)">GUANGDONG</text></g>
+        <g id="text05"><text class="cls-30" transform="translate(46.65 559.38)">32</text><text class="cls-30" transform="translate(46.65 572.58)">GANSU</text></g>
+        <g id="text04"><text class="cls-30" transform="translate(46.96 487.49)">41</text><text class="cls-30" transform="translate(46.96 500.69)">FUJIAN</text></g>
+        <g id="text03"><text class="cls-30" transform="translate(46.68 416.81)">24</text><text class="cls-30" transform="translate(46.68 430.01)">CHONGQING</text></g>
+        <g id="text02"><text class="cls-30" transform="translate(46.76 225.9)">166</text><text class="cls-30" transform="translate(46.76 239.1)">BEIJING</text></g>
+        <g id="text01"><text class="cls-30" transform="translate(54.4 27.91)">27</text><text class="cls-30" transform="translate(54.4 41.11)">ANHUI</text></g>
+        <g id="text21"><text class="cls-30" transform="translate(723.45 283.61)">239</text><text class="cls-30" transform="translate(723.45 296.81)">SHANGHAI</text></g>
+    </g>
+</svg>

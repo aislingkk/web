@@ -2,36 +2,35 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
   viewBox="0 0 1149.4 728.1" style="enable-background:new 0 0 1149.4 728.1;" xml:space="preserve"> 
 <g id="rectImg">
- <rect id="rect01" x="79.7" y="69" class="st0" width="157.9" height="50.4"/>
- <rect id="rect02" x="79.7" y="124.4" class="st1" width="157.9" height="335.6"/>
- <rect id="rect03" x="79.7" y="465" class="st2" width="157.9" height="44.2"/>
- <rect id="rect04" x="79.7" y="514.3" class="st3" width="157.9" height="79.1"/>
- <rect id="rect05" x="79.7" y="598.4" class="st4" width="157.9" height="60.7"/>
- <rect id="rect06" x="242.6" y="69" class="st5" width="232.1" height="114.8"/>
- <rect id="rect07" x="242.6" y="188.9" class="st6" width="232.1" height="189.6"/>
- <rect id="rect08" x="242.6" y="383.5" class="st7" width="232.1" height="68.3"/>
- <rect id="rect09" x="242.6" y="456.8" class="st8" width="232.1" height="202.3"/>
- <rect id="rect10" x="479.7" y="69" class="st9" width="44" height="151.8"/>
- <rect id="rect11" x="528.8" y="69" class="st10" width="91" height="151.8"/>
- <rect id="rect16" x="624.7" y="69" class="st11" width="174.1" height="151.8"/>
- <rect id="rect20" x="803.9" y="69" class="st12" width="39.8" height="151.8"/>
- <rect id="rect26" x="848.7" y="69" class="st13" width="221" height="151.8"/>
- <rect id="rect12" x="479.7" y="225.8" class="st14" width="149.8" height="245.4"/>
- <rect id="rect13" x="479.7" y="476.2" class="st15" width="149.8" height="25.2"/>
- <rect id="rect14" x="479.7" y="506.5" class="st16" width="149.8" height="77"/>
- <rect id="rect15" x="479.7" y="588.5" class="st17" width="149.8" height="70.6"/>
- <rect id="rect17" x="634.6" y="225.8" class="st18" width="33.9" height="115.3"/>
- <rect id="rect19" x="634.6" y="397.7" class="st19" width="33.9" height="261.4"/>
- <rect id="rect21" x="673.5" y="225.8" class="st20" width="310.4" height="248.3"/>
- <rect id="rect27" x="988.9" y="225.8" class="st21" width="80.8" height="248.3"/>
- <rect id="rect22" x="673.5" y="479.1" class="st22" width="170.3" height="4.5"/>
- <rect id="rect24" x="673.5" y="488.6" class="st23" width="170.3" height="170.4"/>
- <rect id="rect23" x="848.8" y="479.1" class="st24" width="99.8" height="7.8"/>
- <rect id="rect29" x="951" y="479.1" class="st24" width="4" height="180"/>
- <rect id="rect25" x="848.8" y="491.8" class="st25" width="99.8" height="167.2"/>
- <rect id="rect28" x="957.2" y="479.1" class="st26" width="112.5" height="180"/>
- <rect id="rect18" x="634.6" y="346.1" class="st27" width="33.9" height="46.6"/>
-</g>
+ <rect class="rect01" x="79.7" y="69" width="157.9" height="50.4"/>
+ <rect class="rect02" x="79.7" y="124.4" width="157.9" height="335.6"/>
+ <rect class="rect03" x="79.7" y="465" width="157.9" height="44.2"/>
+ <rect class="rect04" x="79.7" y="514.3" width="157.9" height="79.1"/>
+ <rect class="rect05" x="79.7" y="598.4" width="157.9" height="60.7"/>
+ <rect class="rect06" x="242.6" y="69" width="232.1" height="114.8"/>
+ <rect class="rect07" x="242.6" y="188.9" width="232.1" height="189.6"/>
+ <rect class="rect08" x="242.6" y="383.5" width="232.1" height="68.3"/>
+ <rect class="rect09" x="242.6" y="456.8" width="232.1" height="202.3"/>
+ <rect class="rect10" x="479.7" y="69" width="44" height="151.8"/>
+ <rect class="rect11" x="528.8" y="69" width="91" height="151.8"/>
+ <rect class="rect16" x="624.7" y="69" width="174.1" height="151.8"/>
+ <rect class="rect20" x="803.9" y="69" width="39.8" height="151.8"/>
+ <rect class="rect26" x="848.7" y="69" width="221" height="151.8"/>
+ <rect class="rect12" x="479.7" y="225.8"  width="149.8" height="245.4"/>
+ <rect class="rect13" x="479.7" y="476.2" width="149.8" height="25.2"/>
+ <rect class="rect14" x="479.7" y="506.5" width="149.8" height="77"/>
+ <rect class="rect15" x="479.7" y="588.5" width="149.8" height="70.6"/>
+ <rect class="rect17" x="634.6" y="225.8" width="33.9" height="115.3"/>
+ <rect class="rect19" x="634.6" y="397.7" width="33.9" height="261.4"/>
+ <rect class="rect21" x="673.5" y="225.8" width="310.4" height="248.3"/>
+ <rect class="rect27" x="988.9" y="225.8" width="80.8" height="248.3"/>
+ <rect class="rect22" x="673.5" y="479.1" width="170.3" height="4.5"/>
+ <rect class="rect24" x="673.5" y="488.6" width="170.3" height="170.4"/>
+ <rect class="rect23" x="848.8" y="479.1" width="99.8" height="7.8"/>
+ <rect class="rect29" x="951" y="479.1" width="4" height="180"/>
+ <rect class="rect25" x="848.8" y="491.8" width="99.8" height="167.2"/>
+ <rect class="rect28" x="957.2" y="479.1" width="112.5" height="180"/>
+ <rect class="rect18" x="634.6" y="346.1" width="33.9" height="46.6"/>
 <g id="rectImgBorder">
  <rect id="rect01_1_" x="79.7" y="69" class="st28" width="157.9" height="50.4"/>
  <rect id="rect02_1_" x="79.7" y="124.4" class="st28" width="157.9" height="335.6"/>
