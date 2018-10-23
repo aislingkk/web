@@ -97,10 +97,12 @@ a:hover {
 }
 
 .button {
+    color: #c8c8c8;
   color: #c8c8c8;
   font-family: 'Niramit', sans-serif;
   text-align: center;
   font-size: 100%;
+opacity: 0.1;
 }
 
 .svgstyle {}
@@ -447,11 +449,12 @@ body {
 }
 
 .myButton {
-  background-color: #ffffff;
+  background-color: #111010;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  border: 1px solid #dcdcdc;
+  /* border: 1px solid #dcdcdc; */
+  border:none;
   display: inline-block;
   cursor: pointer;
   color: #666666;
@@ -460,10 +463,14 @@ body {
   font-weight: bold;
   padding: 4px 48px;
   text-decoration: none;
+  opacity: 0.8;
 }
 
 .myButton:hover {
-  background-color: #f6f6f6;
+  background-color: #111010;
+  color: #36ffe2;
+  border: 1px solid #36ffe2;
+  opacity: 1;
 }
 
 .myButton:active {
