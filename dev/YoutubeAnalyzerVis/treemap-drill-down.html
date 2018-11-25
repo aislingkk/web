@@ -50,8 +50,8 @@
       var myChart = echarts.init(dom);
       var app = {};
       option = null;
-      var uploadedDataURL =
-        "http://127.0.0.1:8080/data/ec-option-doc-statistics-201604.json";
+      // var uploadedDataURL ="http://127.0.0.1:8080/data/ec-option-doc-statistics-201604.json";
+      var uploadedDataURL = "http://127.0.0.1:8080/data/result.json";
 
       myChart.showLoading();
 
@@ -71,6 +71,7 @@
                 var child = {
                   name: path
                 };
+                console.log(source)
                 target.children.push(child);
                 convert(source[key], child, path);
               }
