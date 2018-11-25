@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>YoutubeVis</title>
+
+      <!-- 引入 jQuery库文件 -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/echarts.js"></script>
+</head>
+<body>
+    <!--定义图标表显示区域-->
+    <div id = "main" style="width: 600px;height:400px"></div>
+    <script type = "text/javascript">
+      //初始化E chart对象
+      var myChart = echarts.init(document.getElementById("main"))
+      //图表的配置项和数据
+      var option = {
+        //设置图表的标题
+        title:{
+          //主标题
+          text:"WHAT IS THE ATTITUDE OF THE PUBLIC TOWARDS DATA CENTER ENERGY ON YOUTUBE "
+        },
+        //图例
+        legend:{
+          data:['销量','成本']
+        },
+        //X轴数据
+        xAxis: {
+          data: ["衬衫","羊毛衫","雪纺衫","裤子","高跟鞋","袜子"]
+        },
+        yAxis: {
+        },
+        //根据相应系列进行设置配置
+        series: [
+        {
+          name: '销量',
+          type: 'bar',
+          data: [5, 20, 36, 10, 10, 20]
+        },
+        {
+          name: '成本',
+          type: 'bar',
+          data: [15, 2, 6, 16, 30, 12]
+        }
+      ]
+      }
+      //渲染图表
+       myChart.setOption(option);
+    </script>
+</body>
+</html>
