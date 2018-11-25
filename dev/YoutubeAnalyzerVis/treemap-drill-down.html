@@ -67,10 +67,10 @@
               } else {
                 target.children = target.children || [];
                 var child = {
-                  name: path
+                  name: key
                 };
                 target.children.push(child);
-                convert(source[key], child, path);
+                convert(source[key], child, key);
               }
             }
 
@@ -78,7 +78,7 @@
               target.value = source.$count || 1;
             } else {
               target.children.push({
-                name: basePath,
+                name: basePath
                 // value: source.$count
               });
             }
@@ -104,7 +104,7 @@
                   visibleMin: 300,
                   data: data.children,
                   leafDepth: 1,
-                  upperLabel:true,
+                  // upperLabel:{show:true},
                   levels: [
                     {
                       itemStyle: {
