@@ -44,8 +44,6 @@
       src="http://echarts.baidu.com/gallery/vendors/simplex.js"
     ></script>
     <script type="text/javascript">
- 
-
       var dom = document.getElementById("container");
       var myChart = echarts.init(dom);
       var app = {};
@@ -71,7 +69,6 @@
                 var child = {
                   name: path
                 };
-                console.log(source)
                 target.children.push(child);
                 convert(source[key], child, path);
               }
@@ -82,9 +79,10 @@
             } else {
               target.children.push({
                 name: basePath,
-                value: source.$count
+                // value: source.$count
               });
             }
+
           }
 
           var data = [];
@@ -105,7 +103,8 @@
                   type: "treemap",
                   visibleMin: 300,
                   data: data.children,
-                  leafDepth: 2,
+                  leafDepth: 1,
+                  upperLabel:true,
                   levels: [
                     {
                       itemStyle: {

@@ -23,14 +23,14 @@ data.each do |k,v|
     result[tone][name] = result[tone][name] || {}
     result[tone][name]["$count"] = result[tone]["$count"] || 0
     result[tone][name]["$count"] += 1
-    result[tone][name][comment] = {:$count => likeCount }
+    result[tone][name][comment] = {:$count => likeCount}
   end
 end
 
 
 
 
-res=JSON.generate({:emotion=>result,:$count => count})
+res=JSON.generate(result)
 
 open('result.json','w') do |f|
  f.write(res)
